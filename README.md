@@ -1,5 +1,9 @@
 # WeatherApp 
 
+In this project, I developed a weather application using the API code from the openweathermap.org website. </br>
+
+Weather app is a weather channel which has accurate weather information. Weather app forecasts weather daily & hourly
+
 # Library and Architecture
 -Model-View-ViewModel (MVVM) </br>
 -Dagger-Hilt- </br>
